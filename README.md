@@ -1,1 +1,1 @@
-/images/resource/blog-2.jpg
+./images/resource/blog-2.jpg
